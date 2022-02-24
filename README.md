@@ -1,2 +1,2 @@
-# edu-ios-app-to-be-named
+# SchoolStop
 CSUEB CodePath iOS Project (Education)
